@@ -1,10 +1,4 @@
-# CHESSSUP
-
-## Table of contents
-
-[● Technical Stack](#Technial-Stack)  
-[● Service Overview](#Service-Overview)  
-[● Service Contents](#Service-Contents)    
+# CHESSSUP  
 
 ## Technical Stack
 
