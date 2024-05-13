@@ -1,9 +1,5 @@
 # CHESSSUP
 
-Real-time Online Chess Game. you can play here <https://chesssup.com>
-
-----
-
 ## Table of contents
 
 [● Technical Stack](#Technial-Stack)  
