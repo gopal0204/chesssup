@@ -8,8 +8,7 @@ Real-time Online Chess Game. you can play here <https://chesssup.com>
 
 [● Technical Stack](#Technial-Stack)  
 [● Service Overview](#Service-Overview)  
-[● Service Contents](#Service-Contents)  
-[● Upcoming Work](#Upcoming-Work)  
+[● Service Contents](#Service-Contents)    
 
 ## Technical Stack
 
@@ -94,13 +93,3 @@ Real-time Online Chess Game. you can play here <https://chesssup.com>
 
 ![Honeycam 2020-03-13 17-14-40](https://user-images.githubusercontent.com/56418546/76602875-2c672380-654f-11ea-81de-78ec1879e094.gif)
 
-## Upcoming Work
-
-* Limitation
-  * Multi-process is not supported
-  * Single play is not supported
-  * Personalization still has many features to complement
-* About upcoming Ver2
-  * Multi-process and Scale out will be supported by redis, socket.io-redis
-  * Single play will be supported by stockfishchess bot engine (<https://stockfishchess.org>)
-  * Personal record archieve and replay features will be added
