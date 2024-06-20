@@ -17,7 +17,7 @@
     "express-session": "^1.17.0",
     "immer": "^10.0.4",
     "joi": "^14.3.1",
-    "mongoose": "^5.7.14",
+    "mongoose": "^5.13.20",
     "morgan": "^1.9.1",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
